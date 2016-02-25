@@ -1,3 +1,0 @@
-table.odd-rows-hidden tr:nth-child(odd) {
-    display: none;
-}
